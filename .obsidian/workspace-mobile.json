@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "77fce072c3f5c554",
+        "id": "a8dc0343846dac75",
         "type": "tabs",
         "children": [
           {
-            "id": "28ae25307a7a6e65",
+            "id": "d1e7e5bbf41b415e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读笔记/杂志摘录.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "阅读笔记/杂志摘录.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "阅读笔记/杂志摘录.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "阅读笔记/杂志摘录.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -133,8 +125,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28ae25307a7a6e65",
+  "active": "d1e7e5bbf41b415e",
   "lastOpenFiles": [
+    "阅读笔记/杂志摘录.md",
     "阅读笔记/莫言 - 《红高粱》.md",
     "阅读笔记/村上春树.md",
     "阅读笔记/张嘉佳 - 《云边有个小卖部》.md",
@@ -160,7 +153,6 @@
     "/阅读笔记/巴金 - 激流三部曲.md",
     "/阅读笔记/大冰.md",
     "/阅读笔记/吴承恩 - 《西游记》.md",
-    "/阅读笔记/史铁生 - 《我与地坛》.md",
     "新闻笔记",
     "/新闻笔记",
     "代码笔记/Android/常用命令",
