@@ -1,5 +1,8 @@
 [
   "remotely-save",
   "obsidian-style-settings",
-  "multi-column-markdown"
+  "multi-column-markdown",
+  "table-editor-obsidian",
+  "editing-toolbar",
+  "obsidian-git"
 ]
