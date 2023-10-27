@@ -8,103 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d552161d9a41902",
+            "id": "92748a887d0d21c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读笔记/余华.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d20606e709fea013",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读笔记/村上春树.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9620519d09994de0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读笔记/张嘉佳 - 《云边有个小卖部》.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "302b192bdb2276f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "新闻笔记/语句摘录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00446bacd3e2bdf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读笔记/【巴西】若泽·毛罗·德瓦斯康塞洛斯 - 《我亲爱的甜橙树》.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8685f5901bd00a98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读笔记/【美】文德琳·范·德拉安南 - 《怦然心动》.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59929f689eaac7f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读笔记/【美】文德琳·范·德拉安南 - 《怦然心动》.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cd3f6275308b272",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读笔记/《习近平谈治国理政》.md",
-                "mode": "source",
+                "file": "王国维 - 《人间词话》.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读笔记/《习近平谈治国理政》.md",
+                "file": "王国维 - 《人间词话》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读笔记/《习近平谈治国理政》.md",
+                "file": "王国维 - 《人间词话》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读笔记/《习近平谈治国理政》.md"
+                "file": "王国维 - 《人间词话》.md"
               }
             }
           },
@@ -242,10 +157,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0cd3f6275308b272",
+  "active": "92748a887d0d21c5",
   "lastOpenFiles": [
-    "阅读笔记/【法】雨果 - 《悲惨世界》.md",
     "阅读笔记/《习近平谈治国理政》.md",
+    "王国维 - 《人间词话》.md",
+    "阅读笔记/【法】雨果 - 《悲惨世界》.md",
     "阅读笔记/【英】查尔斯·狄更斯 - 《大卫·科波菲尔》.md",
     "阅读笔记/【日本】夏目漱石 - 《我是猫》.md",
     "阅读笔记/【美】文德琳·范·德拉安南 - 《怦然心动》.md",
@@ -270,7 +186,6 @@
     "阅读笔记/曹雪芹 - 《红楼梦》.md",
     "阅读笔记/【美】玛格丽特·米切尔 - 《飘》.md",
     "阅读笔记/《解决冲突的关键技巧》.md",
-    "阅读笔记/史铁生 - 《我与地坛》.md",
     "代码笔记/Android/常用命令",
     "代码笔记/Android",
     "代码笔记",
