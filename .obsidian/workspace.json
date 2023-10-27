@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "966830b0fbdc53ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d6f73487acaa80b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a75324b13cbafb2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ccb4225761e6495",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbd265214d45bbb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e03341793ecc2b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8a6c8aa41267c96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17798bab3fc44b7e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfb6a9d72663d060",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdf1a786b7961d08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0a4575122761a87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d38659b050a9b83f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5358beef7b32c7c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dce7388c458131a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "0a75324b13cbafb2",
+  "lastOpenFiles": [
+    "阅读笔记/吴承恩 - 《西游记》.md",
+    "阅读笔记/【美】玛格丽特·米切尔 - 《飘》.md",
+    "阅读笔记/【法】司汤达 - 红与黑.md",
+    "阅读笔记/老舍 - 《四世同堂》.md",
+    "阅读笔记/曹雪芹 - 《红楼梦》.md",
+    "阅读笔记/史铁生 - 《我与地坛》.md",
+    "阅读笔记/金庸.md",
+    "影视笔记/我不是药神.md",
+    "阅读笔记/《解决冲突的关键技巧》.md",
+    "影视笔记/海底总动员.md",
+    "代码笔记/Android/常用命令/20230110_开启开发者选项及adb.md",
+    "代码笔记/Android/常用命令/20230516_使Debug版本的应用处于调试状态.md",
+    "代码笔记/Android/常用命令/20231024_获取顶层Activity和Window.md",
+    "代码笔记/Android/常用命令/20231025_显示布局边界.md",
+    "代码笔记/Android/常量命令/20231026_启动Logkit主页面.md",
+    "代码笔记/Android/常量命令/20231024_TCL_KEYCODE.md",
+    "代码笔记/Android/常量命令/20230314_解除adb安装限制.md",
+    "代码笔记/Android/常量命令/20221015_解除avb.md",
+    "代码笔记/Android/常量命令/20220914_修改PID.md",
+    "阅读笔记/路遥 - 《平凡的世界》.md",
+    "代码笔记/Android/常用命令",
+    "代码笔记/Android",
+    "代码笔记",
+    "阅读笔记/大冰.md",
+    "阅读笔记/杂志摘录.md",
+    "阅读笔记/诗词歌赋.md",
+    "阅读笔记/莫言 -《生死疲劳》.md",
+    "阅读笔记/整篇抄录",
+    "影视笔记",
+    "阅读笔记",
+    "README.md"
+  ]
+}
