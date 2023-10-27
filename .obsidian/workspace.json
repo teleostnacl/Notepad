@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读笔记/《傅雷家书》.md",
-                "mode": "preview",
+                "file": "阅读笔记/整篇抄录/越刺激，越无聊.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cc7811b073c9c41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读笔记/整篇抄录/做一个商量的否定者.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +63,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读笔记/《傅雷家书》.md",
+                "file": "阅读笔记/整篇抄录/做一个商量的否定者.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读笔记/《傅雷家书》.md",
+                "file": "阅读笔记/整篇抄录/做一个商量的否定者.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读笔记/《傅雷家书》.md"
+                "file": "阅读笔记/整篇抄录/做一个商量的否定者.md"
               }
             }
           },
@@ -170,10 +182,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7f4482b475e8c36d",
+  "active": "2cc7811b073c9c41",
   "lastOpenFiles": [
-    "阅读笔记/【法】罗曼·罗兰 - 《约翰·克利斯朵夫》.md",
+    "阅读笔记/整篇抄录/自我赋形的时刻.md",
+    "阅读笔记/整篇抄录/自明灯.md",
+    "阅读笔记/整篇抄录/俯仰.md",
+    "阅读笔记/整篇抄录/在宁静中思考.md",
+    "阅读笔记/整篇抄录/不经意间.md",
+    "阅读笔记/整篇抄录/婚姻是一件小事.md",
+    "阅读笔记/整篇抄录/我存在是因为有你的存在.md",
+    "阅读笔记/整篇抄录/越刺激，越无聊.md",
+    "阅读笔记/整篇抄录/文艺的人.md",
+    "阅读笔记/整篇抄录/做一个商量的否定者.md",
     "阅读笔记/《傅雷家书》.md",
+    "阅读笔记/【法】罗曼·罗兰 - 《约翰·克利斯朵夫》.md",
     "阅读笔记/【美】斯托夫人 - 《汤姆叔叔的小屋》.md",
     "阅读笔记/【日本】小川糸 - 《山茶文具店》.md",
     "阅读笔记/【俄】列夫•托尔斯泰 - 《复活》.md",
@@ -189,16 +211,6 @@
     "阅读笔记/张嘉佳 - 《云边有个小卖部》.md",
     "新闻笔记",
     "阅读笔记/村上春树.md",
-    "阅读笔记/余华.md",
-    "阅读笔记/【法】司汤达 - 《红与黑》.md",
-    "阅读笔记/巴金 - 激流三部曲.md",
-    "阅读笔记/【美】斯蒂芬·金 - 《肖申克的救赎》.md",
-    "阅读笔记/【英】威廉·萨默赛特·毛姆 - 《月亮与六便士》.md",
-    "阅读笔记/巴金 - 爱情三部曲.md",
-    "阅读笔记/吴承恩 - 《西游记》.md",
-    "README.md",
-    "阅读笔记/路遥 - 《平凡的世界》.md",
-    "阅读笔记/老舍 - 《四世同堂》.md",
     "代码笔记/Android/常用命令",
     "代码笔记/Android",
     "代码笔记",
