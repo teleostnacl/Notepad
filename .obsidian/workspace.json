@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "0865dacb669eac5d",
+        "id": "58dc25e105e4c640",
         "type": "tabs",
         "children": [
           {
-            "id": "7d0a199d2fade35c",
+            "id": "d62e7a985eb8740a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "阅读笔记/吴承恩 - 《西游记》.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8210b4068a77e6be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读笔记/巴金 - 爱情三部曲.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8c0358408f58a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【英】威廉·萨默赛特·毛姆 - 《月亮与六便士》.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "right": {
     "id": "dfb6a9d72663d060",
@@ -82,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "影视笔记/海底总动员.md",
+                "file": "【英】威廉·萨默赛特·毛姆 - 《月亮与六便士》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "影视笔记/海底总动员.md",
+                "file": "【英】威廉·萨默赛特·毛姆 - 《月亮与六便士》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,11 +150,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "影视笔记/海底总动员.md"
+                "file": "【英】威廉·萨默赛特·毛姆 - 《月亮与六便士》.md"
               }
             }
+          },
+          {
+            "id": "c3ca51904b96fb1b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -145,16 +182,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d0a4575122761a87",
+  "active": "e8c0358408f58a4b",
   "lastOpenFiles": [
-    "README.md",
-    "阅读笔记/金庸.md",
-    "阅读笔记/曹雪芹 - 《红楼梦》.md",
+    "阅读笔记/巴金 - 爱情三部曲.md",
+    "【英】威廉·萨默赛特·毛姆 - 《月亮与六便士》.md",
     "阅读笔记/吴承恩 - 《西游记》.md",
+    "README.md",
+    "阅读笔记/路遥 - 《平凡的世界》.md",
     "阅读笔记/老舍 - 《四世同堂》.md",
+    "阅读笔记/金庸.md",
+    "阅读笔记/大冰.md",
+    "阅读笔记/曹雪芹 - 《红楼梦》.md",
     "阅读笔记/【法】司汤达 - 红与黑.md",
-    "阅读笔记/史铁生 - 《我与地坛》.md",
     "阅读笔记/【美】玛格丽特·米切尔 - 《飘》.md",
+    "阅读笔记/《解决冲突的关键技巧》.md",
+    "阅读笔记/史铁生 - 《我与地坛》.md",
     "代码笔记/Android/常用命令/20231025_显示布局边界.md",
     "代码笔记/Android/常用命令/20230110_开启开发者选项及adb.md",
     "代码笔记/Android/常用命令/20230516_使Debug版本的应用处于调试状态.md",
@@ -165,10 +207,7 @@
     "影视笔记/海底总动员.md",
     "影视笔记",
     "2023-10-22.md",
-    "阅读笔记/《解决冲突的关键技巧》.md",
     "阅读笔记/诗词歌赋.md",
-    "阅读笔记/大冰.md",
-    "阅读笔记/路遥 - 《平凡的世界》.md",
     "阅读笔记/莫言 -《生死疲劳》.md",
     "阅读笔记/杂志摘录.md",
     "阅读笔记/整篇抄录",
