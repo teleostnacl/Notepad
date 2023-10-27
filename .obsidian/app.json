@@ -1,7 +1,7 @@
 {
   "showLineNumber": true,
   "promptDelete": false,
-  "mobilePullAction": "obsidian-git:commit",
+  "mobilePullAction": "editor:open-link-in-new-leaf",
   "mobileToolbarCommands": [
     "editor:undo",
     "editor:redo",
