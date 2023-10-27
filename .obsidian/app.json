@@ -1,7 +1,7 @@
 {
   "showLineNumber": true,
   "promptDelete": false,
-  "mobilePullAction": "editor:open-link-in-new-leaf",
+  "mobilePullAction": "mobile:quick-action",
   "mobileToolbarCommands": [
     "editor:undo",
     "editor:redo",
