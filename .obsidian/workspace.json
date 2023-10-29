@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1d2341190189469c",
+        "id": "fdc5a3c52f6f5de4",
         "type": "tabs",
         "children": [
           {
-            "id": "529b27029f2db3c3",
+            "id": "787b518343843b4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读笔记/【德】 赫尔曼·黑塞 - 《在轮下》.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "225220b109ed8288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "代码笔记/OpenWrt/20231028_单编某个应用.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "代码笔记/OpenWrt/20231028_单编某个应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "代码笔记/OpenWrt/20231028_单编某个应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "代码笔记/OpenWrt/20231028_单编某个应用.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,7 +149,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "225220b109ed8288",
+  "active": "787b518343843b4c",
   "lastOpenFiles": [
     "阅读笔记/【德】 赫尔曼·黑塞 - 《在轮下》.md",
     "代码笔记/OpenWrt/20231028_单编某个应用.md",
