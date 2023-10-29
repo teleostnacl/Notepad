@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "河在河的远方.md",
+                "file": "阅读笔记/整篇抄录/河在河的远方.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "河在河的远方.md",
+            "file": "阅读笔记/整篇抄录/河在河的远方.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "河在河的远方.md",
+            "file": "阅读笔记/整篇抄录/河在河的远方.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "河在河的远方.md"
+            "file": "阅读笔记/整篇抄录/河在河的远方.md"
           }
         }
       }
@@ -146,10 +146,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dda1922060779865",
+  "active": "9585a601542e71f9",
   "lastOpenFiles": [
     "阅读笔记/杂志摘录.md",
-    "河在河的远方.md",
+    "阅读笔记/整篇抄录/河在河的远方.md",
     "conflict-files-obsidian-git.md",
     "阅读笔记/《傅雷家书》.md",
     "阅读笔记/余华.md",
