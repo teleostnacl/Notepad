@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读笔记/《傅雷家书》.md",
+                "file": "阅读笔记/杂志摘录.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "阅读笔记/《傅雷家书》.md",
+            "file": "阅读笔记/杂志摘录.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "阅读笔记/《傅雷家书》.md",
+            "file": "阅读笔记/杂志摘录.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "阅读笔记/《傅雷家书》.md"
+            "file": "阅读笔记/杂志摘录.md"
           }
         }
       }
@@ -135,6 +135,11 @@
   },
   "active": "a8a8fa247a51919f",
   "lastOpenFiles": [
+    "代码笔记/OpenWrt/20231028_单编某个应用.md",
+    "代码笔记/OpenWrt",
+    "conflict-files-obsidian-git.md",
+    "阅读笔记/杂志摘录.md",
+    "阅读笔记/《傅雷家书》.md",
     "阅读笔记/大冰.md",
     "阅读笔记/王国维 - 《人间词话》.md",
     "阅读笔记/整篇抄录/越刺激，越无聊.md",
@@ -154,13 +159,9 @@
     "阅读笔记/【日本】小川糸 - 《山茶文具店》.md",
     "阅读笔记/【日本】夏目漱石 - 《我是猫》.md",
     "阅读笔记/【俄】列夫•托尔斯泰 - 《复活》.md",
-    "阅读笔记/《傅雷家书》.md",
     "阅读笔记/《习近平谈治国理政》.md",
     "/阅读笔记/王国维 - 《人间词话》.md",
     "/阅读笔记/整篇抄录/越刺激，越无聊.md",
-    "/阅读笔记/整篇抄录/自明灯.md",
-    "/阅读笔记/整篇抄录/自我赋形的时刻.md",
-    "/阅读笔记/整篇抄录/文艺的人.md",
     "新闻笔记",
     "/新闻笔记",
     "代码笔记/Android/常用命令",
