@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a78eac58f96f9839",
+        "id": "67476e1e67d8f471",
         "type": "tabs",
         "children": [
           {
-            "id": "a8a8fa247a51919f",
+            "id": "77b178f079d2d581",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "代码笔记/Linux/yay.md",
+                "file": "阅读笔记/杂志摘录.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "代码笔记/Linux/yay.md",
+            "file": "阅读笔记/杂志摘录.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "代码笔记/Linux/yay.md",
+            "file": "阅读笔记/杂志摘录.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "代码笔记/Linux/yay.md"
+            "file": "阅读笔记/杂志摘录.md"
           }
         }
       }
@@ -133,17 +133,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9585a601542e71f9",
+  "active": "77b178f079d2d581",
   "lastOpenFiles": [
+    "阅读笔记/《傅雷家书》.md",
     "阅读笔记/杂志摘录.md",
+    "阅读笔记/余华.md",
     "代码笔记/Linux/yay.md",
     "代码笔记/Linux",
     "阅读笔记/【德】 赫尔曼·黑塞 - 《在轮下》.md",
-    "阅读笔记/余华.md",
     "代码笔记/OpenWrt/20231028_单编某个应用.md",
     "代码笔记/OpenWrt",
     "conflict-files-obsidian-git.md",
-    "阅读笔记/《傅雷家书》.md",
     "阅读笔记/大冰.md",
     "阅读笔记/王国维 - 《人间词话》.md",
     "阅读笔记/整篇抄录/越刺激，越无聊.md",
