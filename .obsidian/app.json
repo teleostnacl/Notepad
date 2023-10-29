@@ -1,7 +1,7 @@
 {
   "showLineNumber": true,
   "promptDelete": false,
-  "mobilePullAction": "mobile:quick-action",
+  "mobilePullAction": "obsidian-git:pull",
   "mobileToolbarCommands": [
     "editor:undo",
     "editor:redo",
