@@ -1,5 +1,6 @@
 name: Mirror Notepad Repo to Gitee
 on:
+  workflow_dispatch:
   schedule:
    # 每天北京时间0点跑(UTC+8)
      - cron:  '0 16 * * *'
