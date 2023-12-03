@@ -1,7 +1,8 @@
 name: Mirror Notepad Repo to Gitee
 on:
-  # push时触发
-  push:
+  schedule:
+   # 每天北京时间0点跑(UTC+8)
+     - cron:  '0 16 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
