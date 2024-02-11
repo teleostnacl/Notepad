@@ -18,7 +18,7 @@ jobs:
           java-version: 17
           
       - name: Run Java Version
-        run: 
+        run: |
           echo Update README Start!!!
           java --version
           ls -l
