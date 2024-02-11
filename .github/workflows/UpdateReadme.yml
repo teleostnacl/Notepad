@@ -1,4 +1,4 @@
-name: UpdateReadme JAVA CI
+name: UpdateReadme CI
 
 on:
   workflow_dispatch:
@@ -12,8 +12,8 @@ jobs:
 
     # Set up 
     steps:
-      - name: Set up JDK
-        uses: actions/setup-java@master
+      - name: Setup Java JDK
+        uses: actions/setup-java@v4.0.0    
         with:
           java-version: 17
 
