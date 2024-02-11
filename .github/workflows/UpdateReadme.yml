@@ -21,17 +21,15 @@ jobs:
         uses: actions/setup-java@master
         with:
           distribution: 'oracle'
-          java-version: 17
+          java-version: 21
           
-      - name: Run Java Version
+      - name: Get Java Version
         run: |
           echo Update README Start!!!
           java --version
-          pwd
-          ls -al
-          echo ${{ github.workspace }}
-          ls -al ${{ github.workspace }}
-          ls -l /home/runner/work/Notepad
+
+      - name: Run UpdateReadme.jar
+        run: java --jar UpdateReadme.jar
 
       - name: Commit files 
         id: commit-files
@@ -40,7 +38,8 @@ jobs:
             git config --local user.email "github-actions[bot]@users.noreply.github.com"
             git config --local user.name "github-actions[bot]"
             git add README.md
-            git commit -m "docs: update blog"
+            git commit -m "Auto Update README.md"
+            echo "hasChange=true" >> $GITHUB_OUTPUT
           else
             echo "No changes detected"
           fi
