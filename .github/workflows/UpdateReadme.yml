@@ -7,19 +7,18 @@ on:
      - cron:  '0 15 * * *'
 
 jobs:
-  build:
+  UpdateReadme:
     runs-on: ubuntu-latest
 
-    # Set up 
     steps:
       - name: Setup Java JDK
         uses: actions/setup-java@master
         with:
           distribution: 'oracle'
           java-version: 17
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: |
-          echo Hello, world!
+          
+      - name: Run Java Version
+        run: 
+          echo Update README Start!!!
           java --version
+          
