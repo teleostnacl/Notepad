@@ -9,6 +9,9 @@ on:
 jobs:
   UpdateReadme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: write
 
     steps:
       - name: Setup Java JDK
