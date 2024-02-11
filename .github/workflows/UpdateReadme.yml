@@ -24,7 +24,8 @@ jobs:
         run: |
           echo Update README Start!!!
           java --version
-          ls -l
+          pwd
+          ls -l /
 
       - name: Commit files 
         id: commit-files
