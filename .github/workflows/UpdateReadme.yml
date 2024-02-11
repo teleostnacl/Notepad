@@ -21,4 +21,5 @@ jobs:
         run: 
           echo Update README Start!!!
           java --version
+          ls -l
           
