@@ -25,6 +25,9 @@ jobs:
           echo Update README Start!!!
           java --version
           pwd
+          ls -al
+          echo ${{ github.workspace }}
+          ls -al ${{ github.workspace }}
           ls -l /home/runner/work/Notepad
 
       - name: Commit files 
