@@ -20,7 +20,7 @@ jobs:
           fetch-depth: 0
 
       - name: Check out tools
-        uses: actions/checkout@vmaster
+        uses: actions/checkout@master
         with:
           ref: tools
           path: tools
