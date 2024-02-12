@@ -1,0 +1,25 @@
+name: Mirror Notepad Repo to Gitee
+on:
+  workflow_dispatch:
+  schedule:
+   # 每天北京时间0点跑(UTC+8)
+     - cron:  '0 16 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Mirror Notepad Repo to Gitee
+      uses: Yikun/hub-mirror-action@master
+      with:
+        # 必选，需要同步的Github用户（源）
+        src: github/teleostnacl
+        # 必选，需要同步到的Gitee的用户（目的）
+        dst: gitee/teleostnacl
+        dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+        dst_token:  ${{ secrets.GITEE_TOKEN }}
+        # 命令超时1h
+        timeout: '1h'
+        # 强制同步
+        force_update: true
+        # 仅同步Notepad仓库
+        static_list: Notepad
