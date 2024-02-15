@@ -36,6 +36,7 @@ jobs:
           echo Update README Start!!!
           cp tools/UpdateReadme.jar .
           cp tools/UpdateReadme.properties .
+          cp tools/STXingKai.ttf .
 
       - name: Run UpdateReadme.jar
         run: |
