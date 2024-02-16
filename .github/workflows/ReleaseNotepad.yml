@@ -24,7 +24,9 @@ jobs:
 
       - name: Delete release
         run: |
-          git push origin --delete release
+          if git rev-parse --verify release;then
+             git push origin --delete release
+          fi
           
       - name: Commit And Push release
         run: |
