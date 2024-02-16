@@ -1,4 +1,4 @@
-name: UpdateReadme CI
+name: ReleaseNotepad CI
 
 on:
   workflow_dispatch:
