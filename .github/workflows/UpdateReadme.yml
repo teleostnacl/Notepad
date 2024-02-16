@@ -34,8 +34,7 @@ jobs:
       - name: Prepare
         run: |
           echo Update README Start!!!
-          cp tools/UpdateReadme.jar .
-          cp tools/STXingKai.ttf .
+          cp tools/files/* .
 
       - name: Run UpdateReadme.jar
         run: |
