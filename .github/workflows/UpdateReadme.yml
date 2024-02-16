@@ -23,6 +23,7 @@ jobs:
       - name: Check out notepad
         uses: actions/checkout@master
         with:
+          ref: master
           fetch-depth: 0
 
       - name: Check out tools
