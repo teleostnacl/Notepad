@@ -46,15 +46,29 @@ jobs:
           fileName=`cat NotepadFileName`
           cd develop
           cp $fileName ..
+
+      - name: Delete release
+        run: |
+          if git rev-parse --verify release;then
+             git push origin --delete release
+          fi
+          
+      - name: Commit And Push release
+        run: |
+          git checkout --orphan release
+          git rm --cached -r .
+          git add `cat NotepadFileName`
+          git commit -m "Release"
+          git push -f origin release
           
       - name: Run UpdateReadme.jar
         run: |
           java -jar UpdateReadme.jar
 
-      - name: Commit And Push
+      - name: Commit And Push Master
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add README.md DailyNoteSum.png DailyNoteSum
+          git add README.md DailyNoteSum.png DailyNoteSum `cat NotepadFileName`
           git commit -m "Auto Update README.md"
           git push
