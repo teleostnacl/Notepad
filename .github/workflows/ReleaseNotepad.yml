@@ -1,0 +1,34 @@
+name: UpdateReadme CI
+
+on:
+  workflow_dispatch:
+  schedule:
+   # 每天北京时间23点30跑(UTC+8)
+     - cron:  '30 15 * * *'
+
+jobs:
+  UpdateReadme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: write
+
+    steps:
+      - name: Check out notepad
+        uses: actions/checkout@master
+
+      - name: Config Git
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+      - name: Delete release
+        run: |
+          git push origin --delete release
+          
+      - name: Commit And Push release
+        run: |
+          git checkout --orphan release
+          git add 图书笔记 新闻笔记 影视笔记 随手记录.md 杂志摘录.md 诗词歌赋.md 发疯文学.md
+          git commit -m "Release"
+          git push orgin release
