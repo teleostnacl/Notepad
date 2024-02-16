@@ -65,6 +65,7 @@ jobs:
 
       - name: Commit And Push Update Files
         run: |
+          git checkout master
           noteFileName=`cat NotepadFileName`
           if [ -n "$(git status --porcelain $noteFileName)" ]; then
             git add $noteFileName
