@@ -49,23 +49,8 @@ jobs:
           cd develop
           cp -fr $fileName ..
 
-      - name: Delete release
-        run: |
-          if git rev-parse --verify release;then
-             git push origin --delete release
-          fi
-          
-      - name: Commit And Push release
-        run: |
-          git checkout --orphan release
-          git rm --cached -r .
-          git add `cat NotepadFileName`
-          git commit -m "Release"
-          git push -f origin release
-
       - name: Commit And Push Update Files
         run: |
-          git checkout master
           noteFileName=`cat NotepadFileName`
           if [ -n "$(git status --porcelain $noteFileName)" ]; then
             git add $noteFileName
@@ -81,3 +66,17 @@ jobs:
           git add README.md DailyNoteSum.png DailyNoteSum
           git commit -m "Auto Update README.md"
           git push -f origin master
+
+      - name: Delete release
+        run: |
+          if git rev-parse --verify release;then
+             git push origin --delete release
+          fi
+          
+      - name: Commit And Push release
+        run: |
+          git checkout --orphan release
+          git rm --cached -r .
+          git add `cat NotepadFileName`
+          git commit -m "Release"
+          git push -f origin release
