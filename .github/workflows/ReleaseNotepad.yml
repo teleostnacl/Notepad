@@ -7,7 +7,7 @@ on:
      - cron:  '30 15 * * *'
 
 jobs:
-  UpdateReadme:
+  ReleaseNotepad:
     runs-on: ubuntu-latest
     permissions:
       contents: write
