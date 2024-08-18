@@ -59,7 +59,7 @@ jobs:
           
       - name: Run UpdateReadme.jar
         run: |
-          java -jar UpdateReadme.jar
+          java -jar NotepadUpdateReadme.jar
 
       - name: Commit And Push Master
         run: |
